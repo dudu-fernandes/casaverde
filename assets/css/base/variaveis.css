@@ -1,0 +1,19 @@
+
+
+/* Variáveis e estilos padrões usados */
+:root {
+    /* Cores dos elementos */
+    --cor-branca: #FFFFFF;
+    --cor-amarela: #FFCB47;
+    --cor-cinza: #909090;
+    --cor-preta: #202020;
+    
+    /* Fontes do projeto */
+    --fonte-tamanho-corpo: 1em;
+    --fonte-corpo: 'Montserrat', sans-serif;
+    --fonte-estilizada: 'Elsie Swash Caps', cursive;
+
+    /* Background da página */
+    background: url("../../img/Linhas-background.svg") no-repeat center;
+}
+
